@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1554870210 source:d:\kuliah\semester 2\std\tubes 2\tubes\child.cpp
+
+1554874793 source:d:\kuliah\semester 2\std\tubes 2\tubes\main.cpp
+	"multiList.h"
+
+1554870241 source:d:\kuliah\semester 2\std\tubes 2\tubes\multilist.cpp
+
+1554870165 source:d:\kuliah\semester 2\std\tubes 2\tubes\parent.cpp
+
+1554870187 source:d:\kuliah\semester 2\std\tubes 2\tubes\relasi.cpp
+
+1554874758 d:\kuliah\semester 2\std\tubes 2\tubes\multilist.h
+	"parent.h"
+	"child.h"
+	"relasi.h"
+	<iostream>
+	<stdlib.h>
+
+1554875816 d:\kuliah\semester 2\std\tubes 2\tubes\parent.h
+	<iostream>
+	"relasi.h"
+
+1554874758 d:\kuliah\semester 2\std\tubes 2\tubes\relasi.h
+	<iostream>
+	"parent.h"
+	"child.h"
+
+1554875672 d:\kuliah\semester 2\std\tubes 2\tubes\child.h
+	<iostream>
+
+1554874794 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\baru\tubes\main.cpp
+	"multiList.h"
+
+1554874760 d:\tugas tugasss\if-42-12 sem2\std\tubs\baru\tubes\multilist.h
+	"parent.h"
+	"child.h"
+	"relasi.h"
+	<iostream>
+	<stdlib.h>
+
+1555486498 d:\tugas tugasss\if-42-12 sem2\std\tubs\baru\tubes\parent.h
+	<iostream>
+	"relasi.h"
+
+1554874760 d:\tugas tugasss\if-42-12 sem2\std\tubs\baru\tubes\relasi.h
+	<iostream>
+	"parent.h"
+	"child.h"
+
+1555486156 d:\tugas tugasss\if-42-12 sem2\std\tubs\baru\tubes\child.h
+	<iostream>
+
+1554870242 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\baru\tubes\multilist.cpp
+
+1555486479 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\baru\tubes\parent.cpp
+	"multiList.h"
+
+1554870188 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\baru\tubes\relasi.cpp
+
+1555486156 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\baru\tubes\child.cpp
+	"multiList.h"
+
+1555511716 source:d:\kuliah\semester 2\std\kirim\tubes\child.cpp
+	"child.h"
+
+1555599652 d:\kuliah\semester 2\std\kirim\tubes\child.h
+	<iostream>
+
+1556361248 source:d:\kuliah\semester 2\std\kirim\tubes\main.cpp
+	"multiList.h"
+
+1556532804 d:\kuliah\semester 2\std\kirim\tubes\multilist.h
+	"parent.h"
+	"child.h"
+	"relasi.h"
+	<iostream>
+	<stdlib.h>
+
+1556196051 d:\kuliah\semester 2\std\kirim\tubes\parent.h
+	<iostream>
+	"relasi.h"
+
+1556115080 d:\kuliah\semester 2\std\kirim\tubes\relasi.h
+	<iostream>
+	"parent.h"
+	"child.h"
+
+1556535422 source:d:\kuliah\semester 2\std\kirim\tubes\multilist.cpp
+	"multiList.h"
+
+1556531070 source:d:\kuliah\semester 2\std\kirim\tubes\parent.cpp
+	"parent.h"
+
+1556445060 source:d:\kuliah\semester 2\std\kirim\tubes\relasi.cpp
+	"relasi.h"
+
+1555511716 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\baru3\tubes\child.cpp
+	"child.h"
+
+1555599652 d:\tugas tugasss\if-42-12 sem2\std\tubs\baru3\tubes\child.h
+	<iostream>
+
+1556367391 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\baru3\tubes\parent.cpp
+	"parent.h"
+
+1556196051 d:\tugas tugasss\if-42-12 sem2\std\tubs\baru3\tubes\parent.h
+	<iostream>
+	"relasi.h"
+
+1556115080 d:\tugas tugasss\if-42-12 sem2\std\tubs\baru3\tubes\relasi.h
+	<iostream>
+	"parent.h"
+	"child.h"
+
+1556445060 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\baru3\tubes\relasi.cpp
+	"relasi.h"
+
+1556361248 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\baru3\tubes\main.cpp
+	"multiList.h"
+
+1556455780 d:\tugas tugasss\if-42-12 sem2\std\tubs\baru3\tubes\multilist.h
+	"parent.h"
+	"child.h"
+	"relasi.h"
+	<iostream>
+	<stdlib.h>
+
+1556457793 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\baru3\tubes\multilist.cpp
+	"multiList.h"
+
+1555511716 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\if4212_data_artikel\child.cpp
+	"child.h"
+
+1555599652 d:\tugas tugasss\if-42-12 sem2\std\tubs\if4212_data_artikel\child.h
+	<iostream>
+
+1556361248 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\if4212_data_artikel\main.cpp
+	"multiList.h"
+
+1556532804 d:\tugas tugasss\if-42-12 sem2\std\tubs\if4212_data_artikel\multilist.h
+	"parent.h"
+	"child.h"
+	"relasi.h"
+	<iostream>
+	<stdlib.h>
+
+1556196051 d:\tugas tugasss\if-42-12 sem2\std\tubs\if4212_data_artikel\parent.h
+	<iostream>
+	"relasi.h"
+
+1556115080 d:\tugas tugasss\if-42-12 sem2\std\tubs\if4212_data_artikel\relasi.h
+	<iostream>
+	"parent.h"
+	"child.h"
+
+1556535422 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\if4212_data_artikel\multilist.cpp
+	"multiList.h"
+
+1556531070 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\if4212_data_artikel\parent.cpp
+	"parent.h"
+
+1556445060 source:d:\tugas tugasss\if-42-12 sem2\std\tubs\if4212_data_artikel\relasi.cpp
+	"relasi.h"
+
